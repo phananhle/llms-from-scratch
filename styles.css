@@ -20,7 +20,7 @@ body {
   left: 10%;
   width: 80%;
   padding: 20px;
-  color: #0e0d0d; /* Ändern Sie die Textfarbe entsprechend */
-  background: rgba(130, 44, 44, 0.7); /* Text Hintergrundfarbe */
+  color: #ffffff; /* Ändern Sie die Textfarbe entsprechend */
+  background: rgba(77, 77, 77, 0.7); /* Text Hintergrundfarbe */
   font-size: 16px;
 }
