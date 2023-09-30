@@ -43,6 +43,6 @@ This project has the following file and directory structure:
 
 ## Acknowledgments and Resources
 
-The inspiration for this project is taken from the lecture "[Large Language Models from Scratch](https://www.youtube.com/watch?v=lnA9DMvHtfI)" by Steve Seitz on YouTube. A big thank you to Steve Seitz for providing such an insightful and meaningful lecture. This project aims to break down and present the content in a more interactive way.
+The inspiration for this project is taken from the video "[Large Language Models from Scratch](https://www.youtube.com/watch?v=lnA9DMvHtfI)" by Steve Seitz on YouTube. A big thank you to Steve Seitz for providing such an insightful and meaningful lecture. This project aims to break down and present the content in a more interactive way.
 
 All sources are cited to their respective authors and creators. If you find this project useful or inspiring, please feel free to fork, star, or contribute to this repository.
