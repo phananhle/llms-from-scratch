@@ -974,4 +974,5 @@ window.addEventListener("scroll", () => {
 window.addEventListener("load", () => {
   // Setzt das erste Bild beim Laden der Seite
   document.getElementById('scene').style.backgroundImage = `url(${frameImages[0].src})`;
+  document.getElementById('descriptionBox').innerText = frameDescriptions[0];
 }); 
